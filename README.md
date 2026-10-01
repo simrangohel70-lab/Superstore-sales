@@ -24,7 +24,7 @@ A complete walkthrough of the Power BI project is available below.
 
 ### ▶️ Watch the Project
 
-**[🎬 Click Here to Watch the Complete Power BI Demo](YOUR_VIDEO_LINK_HERE)**
+https://drive.google.com/file/d/1mVpOO4KFwHFW8V0FeW3TjgaIKH7ttLSM/view?usp=sharing
 
 The demonstration covers:
 
