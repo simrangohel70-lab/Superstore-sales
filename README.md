@@ -307,9 +307,10 @@ The goal was to keep the dashboard **simple, readable and business-focused**.
 
 ## 🏠 Sales Performance Dashboard
 
+<img width="960" height="542" alt="image" src="https://github.com/user-attachments/assets/a407216b-1646-41d0-af95-560737bac306" />
+
 <p align="center">
 
-<img src="Dashboard%20Screenshots/Sales%20Dashboard.png" alt="Superstore Sales Dashboard" width="950"/>
 
 </p>
 
@@ -317,9 +318,11 @@ The goal was to keep the dashboard **simple, readable and business-focused**.
 
 ## 📋 Order Details
 
+<img width="960" height="538" alt="image" src="https://github.com/user-attachments/assets/db4fc117-803a-4f29-ba6e-839b3d57387c" />
+
+
 <p align="center">
 
-<img src="Dashboard%20Screenshots/Order%20Details.png" alt="Order Details Page" width="950"/>
 
 </p>
 
